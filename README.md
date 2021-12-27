@@ -27,6 +27,8 @@ Pricing and Hedging American Options in High
 Dimensions
 ](https://arxiv.org/pdf/1909.11532v1.pdf)  
     A chronological neural model for high-dimensional American option problems. The paper notes that their proposal outperforms the Longstaff-Schwartz algorithm when d ≥ 20.
+    - [Data-driven Hedging of Stock Index Options via Deep Learning](https://arxiv.org/pdf/2111.03477v1.pdf)  
+    This work leverage a sentiment score(VIX) and a GRU model to enhance the hedging capability of deep neural networks.
 * Reinforced Learning Approach
     - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)  
     The paper demonstrates the production of an optimal hedging strategy when a particular stochastic process has been specified. Unlike past works the authors put great emphasis on accounting the impact of trading costs. 
