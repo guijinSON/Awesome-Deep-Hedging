@@ -12,6 +12,7 @@ __Last Updated: 2021.12.27__
     - [Reinforcement Learning Approach](#reinforcement-learning-approach)
     - [Others](#others)
 * [Curated Github Repos & Blogs](#curated-github-repos)
+* [Relavent Journals](#relavent-journals)
 
 ## Introduction to Deep Hedging
 [Back to Top](#contents)  
@@ -61,4 +62,12 @@ A survey paper on deep hedging literatures. Provide comparison in terms of input
 - [pfnet-research/NoTransactionBandNetwork](https://github.com/pfnet-research/notransactionbandnetwork)  
   A minimal implementation of _"No-Transaction Band Network: A Neural Network Architecture for Efficient Deep Hedging"_
 - [pfnet-research/pfhedge](https://github.com/pfnet-research/pfhedge)  
-  PyTorch based framework for hedging financial derivatives which provide a diverse set of models and instrunments. Well integrated with PyTorch and supports effortless extensions. 
+  PyTorch based framework for hedging financial derivatives which provide a diverse set of models and instrunments. Well integrated with PyTorch and supports effortless extensions.
+  
+### Relavent Journals
+* [International Journal of Financial Markets and Derivatives](https://www.inderscience.com/jhome.php?jcode=ijfmd#:~:text=IJFMD%20addresses%20the%20advancement%20of,of%20international%20markets%20and%20derivatives.)
+* [Intelligent Systems in Accounting, Finance & Management](https://onlinelibrary.wiley.com/journal/21600074)
+* [Physica A: Statistical Mechanics and its Applications](https://www.journals.elsevier.com/physica-a-statistical-mechanics-and-its-applications)
+* [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
+* [Quantitative Finance](https://www.tandfonline.com/journals/rquf20?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9lBT2BmuXeWnWSp-tSCcoAsFDhqabqgh35kTC3U_3keqgmbtarm_3YaAj6HEALw_wcB&)
+* [International Journal of Theoretical and Applied Finance](https://www.worldscientific.com/worldscinet/ijtaf)
