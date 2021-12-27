@@ -32,6 +32,8 @@ Dimensions
 * Reinforced Learning Approach
     - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)  
     The paper demonstrates the production of an optimal hedging strategy when a particular stochastic process has been specified. Unlike past works the authors put great emphasis on accounting the impact of trading costs. 
+    - [Deep Hedging: Hedging Derivatives Under Generic Market Frictions Using Reinforcement Learning](https://smallake.kr/wp-content/uploads/2019/10/SSRN-id3355706.pdf)
+    Work done by J.P Morgan. Though trained on simulated data it has been reported to help _"hedge ite exposures faster, and quote higher volumes as a result"_ according to [Beacon Platform](https://www.risk.net/derivatives/6691696/jp-morgan-turns-to-machine-learning-for-options-hedging). 
     - [Reinforced learning for hedging: transfer learning at work](https://probability.nl/wp-content/uploads/2021/06/WP-Reinforced-learning-for-hedging-transfer-learning-at-work.pdf)  
   A shortened version of [Giurca and Borovkova (2021)](https://www.semanticscholar.org/paper/Delta-Hedging-of-Derivatives-using-Deep-Learning-Giurca-Borovkova/e451a57d9d4213d14e9315cf4037adc655884bfd) which reports that knowledge acquired by training on simulated data can be transfered to real-time markets. 
 
