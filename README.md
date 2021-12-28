@@ -17,7 +17,7 @@ __Last Updated: 2021.12.27__
 ## Introduction to Deep Hedging
 [Back to Top](#contents)  
 
-Hedging refers to a risk managment strategy employed to minimize risk by taking adversial postions to a set asset. Commonly, hedging is adopted using derivatves such as options, swaps, futures and forward contracts. Though, a vast majority of present-day hedging strategies still heavily rely on analytical methods, several recent works aim to outperform such traditional methods by leveraging ML/DL technologies. In this repository we provided a curated list of modern neural approaches to derivative hedging, also known as __Deep Hedging.__
+Hedging refers to a risk managment strategy employed to minimize risk by taking adversial postions to a set asset. Commonly, hedging is adopted using derivatves such as options, swaps, futures and forward contracts. Though a vast majority of present-day hedging strategies still heavily rely on analytical methods, several recent works aim to outperform such traditional methods by leveraging ML/DL technologies. In this repository we provided a curated list of modern neural approaches to derivative hedging, also known as __Deep Hedging.__
 
 The problem of hedging shows a highly nonlinear connection with various parameters such as volatility, time to maturity, interest rate, and asset price. As modern ML/DL technology have shown outstanding results in approximating nonlinear functions, ML/DL researchers are making effort to tackle the problem of hedging as well. However, at the best of our knowledge most deep hedging research use simulated data for both training and validation, which leaves a question: _Can ML/DL algorithms acquire knowledge in real-word hedging through fake data?_  
 Which we hope to be resolved in future literatures. 
@@ -51,7 +51,7 @@ Work done by J.P Morgan. Though trained on simulated data it has been reported t
 * [No-Transaction Band Network: A Neural Network Architecture for Efficient Deep Hedging](https://arxiv.org/pdf/2103.01775.pdf)  
 This paper proposes _No-Transaction Band Strategy_ using the clamp function and reports to outperform vanilla linear models. 
 
-* [Neural networks for option pricing and hedging:a literature review](http://eprints.lse.ac.uk/104341/1/Ruf_Wang_Literature_Review.pdf)  
+* [Neural networks for option pricing and hedging: a literature review](http://eprints.lse.ac.uk/104341/1/Ruf_Wang_Literature_Review.pdf)  
 A survey paper on deep hedging literatures. Provide comparison in terms of input features, output variables, benchmark models, performance measures, data partition methods, and underlying assets.
 
 ## Curated Github Repos 
